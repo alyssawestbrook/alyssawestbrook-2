@@ -9,5 +9,5 @@
     # This is important to manage the different environments and their codes, which helps to create stability within the system.
 **How does this automated deployment improve reliability comparred to manual deployment?**
     # Automated deplyment improves reliability because there is less room for mistakes, doing everything manually can not only take a long time, but also has a signifficantly higher likely hood of getting messed up. automated deployment has one way of doing stuff the same everytime as long as its being fed with the correct format.
-**What would happen if you pushed a code to a different branch(not main)?**
+**What would happen if you pushed a code to a different branch (not main)?**
     # It would be added to that specific branch and its history, which would most likely mean that anyone who is on that branch can see it.
